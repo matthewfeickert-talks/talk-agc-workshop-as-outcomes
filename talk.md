@@ -18,6 +18,7 @@ May 5th, 2023
 * .bold[Time]: 20 minutes talk + 10 minutes questions
 * .bold[Notes from organizers]:
    - Summary talk of the workshop from the Analysis Systems perspective
+   - Friday morning slot is for the area leads to condense all the workshop discussions of relevance for the area into a plan for the next steps, and most importantly for us a plan towards a showcase event in September
 ]
 
 ---
