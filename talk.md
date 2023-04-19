@@ -1,17 +1,15 @@
 class: middle, center, title-slide
 count: false
 
-# IRIS-HEP Analysis Grand Challenge<br> at US ATLAS Analysis Facilities
+# Analysis Systems: <br>Workshop Outcomes and Action Items
 .large.blue[Matthew Feickert]<br>
 .large[(University of Wisconsin-Madison)]
 <br>
 [matthew.feickert@cern.ch](mailto:matthew.feickert@cern.ch)
 
-[IRIS-HEP AGC workshop 2023](https://indico.cern.ch/event/1260431/contributions/5315256/)
+[IRIS-HEP AGC workshop 2023](https://indico.cern.ch/event/1260431/contributions/5315157/)
 
-May 4th, 2023
-
-.middle-logo[]
+May 5th, 2023
 
 ---
 # Talk Overview
@@ -19,10 +17,7 @@ May 4th, 2023
 .large[
 * .bold[Time]: 20 minutes talk + 10 minutes questions
 * .bold[Notes from organizers]:
-   - Slides can just advertise/summarize available "features" at various facilities that could be useful for AGC style workflows.
-      - Example: UChicago we have now also Triton supporting 70 GPUs
-   - It would be ideal to test them also
-   - Nice example to test if AGC notebook can run all the way, and if not what is missing.
+   - Summary talk of the workshop from the Analysis Systems perspective
 ]
 
 ---
