@@ -55,9 +55,15 @@ May 5th, 2023
 # ML Pipeline Integration
 
 .large[
-- .blue[Point A] 🎉
-- .red[Point B] 🌐
-- .bold[Point C] 🚀
+.kol-1-2[
+.bold[Action items]
+   * Integrate MLflow and Triton into workflows
+   * Follow up with Ops program for expanding support of Triton
+   * Follow up with [Dask-ML](https://ml.dask.org/) devs to ensure integration with MLflow works
+]
+.kol-1-2[
+.center.width-100[[![triton-ux-problems](figures/triton-ux-problems.png)](https://indico.cern.ch/event/1260431/contributions/5315191/)]
+]
 ]
 
 ---
