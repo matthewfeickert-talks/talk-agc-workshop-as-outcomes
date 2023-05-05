@@ -79,6 +79,15 @@ May 5th, 2023
 ]
 
 ---
+# Integration with Analysis Facilities
+
+.large[
+* Test at all US Analysis Facilities and establish workflows with the operations programs
+* Make it easy for Analysis Facilities to support the tools that we need
+   - See [DOMA closeout talk](https://indico.cern.ch/event/1260431/timetable/?view=standard#2-doma-workshop-outcomes-and-a) for Coffea Shoppe
+]
+
+---
 # Example Slide
 
 .large[
