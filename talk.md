@@ -22,6 +22,20 @@ May 5th, 2023
 ]
 
 ---
+# Goal to focus on: AGC showcase event 2023
+
+.huge[
+* This workshop has focused on what the current state of work is
+* As we look to future iterations of the Analysis Grand Challenge need to now look at .bold[what needs to be accomplished] to realize goals raised in discussions.
+* Have the [iris-hep/analysis-grand-challenge/ Issue #64](https://github.com/iris-hep/analysis-grand-challenge/issues/64) to guide us as well
+* Development and application focuses:
+   - Dask-ification of the Analysis Systems ecosystem (reference: [Lindsey's talk](https://indico.cern.ch/event/1260431/contributions/5315181/))
+   - Integration of Machine Learning workflows into the Analysis Systems pipeline (reference: [Elliott's talk](https://indico.cern.ch/event/1260431/contributions/5315191/))
+   - Exploring `correctionslib` (reference: [Andrew's talk](https://indico.cern.ch/event/1260431/contributions/5315192/))
+   - Integration testing of the Analysis Systems pipeline with itself and Coffea-casa
+]
+
+---
 # Example Slide
 
 .large[
