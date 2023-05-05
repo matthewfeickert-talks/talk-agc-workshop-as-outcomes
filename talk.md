@@ -65,7 +65,7 @@ May 5th, 2023
 # Correctionslib
 
 .large[
-* Alex's point on
+* Alex's point on .bold[woops, ran out of time will fix this]
 
 .bold[Action items]
 * Using correctionslib might be too much for September, but push hard here nonetheless
