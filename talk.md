@@ -45,15 +45,18 @@ May 5th, 2023
 # ML Pipeline Integration
 
 .large[
-.kol-1-2[
+.kol-2-3[
 .bold[Action items]
-   * Integrate MLflow and Triton into workflows
-   * Follow up with Ops program for expanding support of Triton to more Analysis Facilities
-   * Follow up with [Dask-ML](https://ml.dask.org/) devs to ensure integration with MLflow works
-   * Understand Trition and ML framework compatibility
-      - XGBoost's JSON is painful with Trition, and fine to use PyTorch/TensorFlow, but if someone wants to use XGBoost should avoid limiting them
+* Integrate MLflow and Triton into workflows
+* Follow up with Ops program for expanding support of Triton to more Analysis Facilities
+* Follow up with [Dask-ML](https://ml.dask.org/) devs to ensure integration with MLflow works
+* Understand Trition and ML framework compatibility
+   - XGBoost's JSON is painful with Trition, and fine to use PyTorch/TensorFlow, but if someone wants to use XGBoost should avoid limiting them
+* See [DOMA closeout talk](https://indico.cern.ch/event/1260431/timetable/?view=standard#2-doma-workshop-outcomes-and-a) on model management
 ]
-.kol-1-2[
+.kol-1-3[
+<br>
+<br>
 .center.width-100[[![triton-ux-problems](figures/triton-ux-problems.png)](https://indico.cern.ch/event/1260431/contributions/5315191/)]
 ]
 ]
@@ -71,6 +74,11 @@ May 5th, 2023
 # Integration Testing of AS pipeline
 
 .large[
+
+* Workflow are becoming more complex with new features and requirements
+
+.bold[Action items]
+
 * With all components
 * On Coffea-casa
 * At all Analysis Facilities
