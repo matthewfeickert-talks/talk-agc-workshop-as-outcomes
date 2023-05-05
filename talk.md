@@ -73,41 +73,39 @@ May 5th, 2023
 ---
 # Integration Testing of AS pipeline
 
-.large[
+.huge[
 
-* Workflow are becoming more complex with new features and requirements
+* Workflows are becoming more complex with new features and (differing) requirements
+* Need to be testing Analysis Systems pipeline with
+   - All Analysis Systems components
+   - Against current Coffea-casa releases
+   - At all Analysis Facilities
 
 .bold[Action items]
 
-* With all components
-* On Coffea-casa
-* At all Analysis Facilities
+* Setup integration testing infrastructure to make this straightforward
+*
 ]
 
 ---
 # Integration with Analysis Facilities
 
-.large[
-* Test at all US Analysis Facilities and establish workflows with the operations programs
+.huge[
+
+.bold[Action items]
+* Test regularly at all US Analysis Facilities
+   - Reduce container image build redundancy with DOMA/Coffea-casa
+* Establish workflows with the operations programs
 * Make it easy for Analysis Facilities to support the tools that we need
-   - See [DOMA closeout talk](https://indico.cern.ch/event/1260431/timetable/?view=standard#2-doma-workshop-outcomes-and-a) for Coffea Shoppe
-]
-
----
-# Example Slide
-
-.large[
-- .blue[Point A] 🎉
-- .red[Point B] 🌐
-- .bold[Point C] 🚀
+   - See [DOMA closeout talk](https://indico.cern.ch/event/1260431/timetable/?view=standard#2-doma-workshop-outcomes-and-a) for .bold[Coffea Shoppe]
 ]
 
 ---
 # Summary
 .kol-2-3[
-- .large[.bold[Important] points]
-   - sub points!
-   - and more
+- .huge[
+* In very good shape for moving towards goals for Analysis Grand Challenge showcase event!
+* Have lots to focus on to reach there
 ]
 .kol-1-3[
 <br>
@@ -128,3 +126,13 @@ class: end-slide, center
 count: false
 
 The end.
+
+
+---
+# Example Slide
+
+.large[
+- .blue[Point A] 🎉
+- .red[Point B] 🌐
+- .bold[Point C] 🚀
+]
