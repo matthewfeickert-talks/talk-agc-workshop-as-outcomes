@@ -92,18 +92,19 @@ May 5th, 2023
 
 .huge[
 
+* Make it easy for Analysis Facilities to support the tools that we need
+   - See [DOMA closeout talk](https://indico.cern.ch/event/1260431/timetable/?view=standard#2-doma-workshop-outcomes-and-a) for .bold[Coffea Shoppe]
+
 .bold[Action items]
 * Test regularly at all US Analysis Facilities
    - Reduce container image build redundancy with DOMA/Coffea-casa
 * Establish workflows with the operations programs
-* Make it easy for Analysis Facilities to support the tools that we need
-   - See [DOMA closeout talk](https://indico.cern.ch/event/1260431/timetable/?view=standard#2-doma-workshop-outcomes-and-a) for .bold[Coffea Shoppe]
 ]
 
 ---
 # Summary
+.huge[
 .kol-2-3[
-- .huge[
 * In very good shape for moving towards goals for Analysis Grand Challenge showcase event!
 * Have lots to focus on to reach there
 ]
@@ -112,6 +113,7 @@ May 5th, 2023
 <br>
 <br>
 .center.width-100[[![example_logo](assets/logos/logo_IRIS-HEP.png)](https://iris-hep.org/)]
+]
 ]
 
 ---
