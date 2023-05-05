@@ -65,9 +65,10 @@ May 5th, 2023
 # Correctionslib
 
 .large[
-- .blue[Point A] 🎉
-- .red[Point B] 🌐
-- .bold[Point C] 🚀
+* Alex's point on
+
+.bold[Action items]
+* Using correctionslib might be too much for September, but push hard here nonetheless
 ]
 
 ---
