@@ -52,6 +52,33 @@ May 5th, 2023
 ]
 
 ---
+# ML Pipeline Integration
+
+.large[
+- .blue[Point A] 🎉
+- .red[Point B] 🌐
+- .bold[Point C] 🚀
+]
+
+---
+# Correctionslib
+
+.large[
+- .blue[Point A] 🎉
+- .red[Point B] 🌐
+- .bold[Point C] 🚀
+]
+
+---
+# Integration Testing of AS pipeline
+
+.large[
+* With all components
+* On Coffea-casa
+* At all Analysis Facilities
+]
+
+---
 # Example Slide
 
 .large[
