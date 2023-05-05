@@ -38,14 +38,17 @@ May 5th, 2023
 ---
 # Dask-ification and CalVer Coffea
 
-.huge[
-.center.width-80[[![coffea-transition-plan](figures/coffea-transition-plan.png)](https://github.com/iris-hep/analysis-grand-challenge/issues/64)]
+.large[
+.center.width-65[[![coffea-transition-plan](figures/coffea-transition-plan.png)](https://indico.cern.ch/event/1260431/contributions/5315181/)]
 
-* Migration: `coffea` .bold[&rarr;] `coffea` CalVer, Awkward .bold[&rarr;] `dask_awkward`,<br> `hist` .bold[&rarr;] `dask_histogram`
-* .bold[Action items]
-   - Perform integration testing with coffea CalVer pre-releases
-   <br>(AS Scikit-HEP tools already compatible with Awkward v2)
-   - Upskill in workflows using Dask
+* Dask Migration: `coffea` .bold[&rarr;] `coffea` CalVer, Awkward .bold[&rarr;] `dask_awkward`,<br> `hist` .bold[&rarr;] `dask_histogram`
+
+.bold[Action items]
+   - Perform integration testing with coffea CalVer (pre-)releases
+   <br>(AS related Scikit-HEP tools already compatible with Awkward v2)
+   - Coordinate discussions with Dask devs for the Institute on reaching HEP scale
+   <br>(target SciPy 2023)
+   - Upskill in workflows using Dask / Revise AGC analyses
 ]
 
 ---
