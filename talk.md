@@ -36,6 +36,17 @@ May 5th, 2023
 ]
 
 ---
+# Dask-ification and CalVer Coffea
+
+.huge[
+.center.width-100[[![coffea-transition-plan](figures/coffea-transition-plan.png)](https://github.com/iris-hep/analysis-grand-challenge/issues/64)]
+
+* coffea-transition-plan
+* .bold[Action items]
+   - A
+]
+
+---
 # Example Slide
 
 .large[
